@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cryptoversion"
+version = "0.1.0"
+description = "CLI application to convert cryptocurrencies into fiat"
+authors = ["datiswaken <jannis.lambinus@protonmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
