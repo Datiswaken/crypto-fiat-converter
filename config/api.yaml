@@ -1,0 +1,5 @@
+coingecko:
+  base_url: "https://api.coingecko.com/api/v3"
+  endpoints:
+    DATE_RANGE: "/coins/{convert_from}/market_chart/range?from={from}&to={to}&vs_currency={convert_to}"
+    COINS: "/coins/list?include_platform=true"
