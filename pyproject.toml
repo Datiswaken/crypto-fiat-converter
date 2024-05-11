@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cryptoversion"
+name = "crypto-fiat-converter"
 version = "0.1.0"
 description = "CLI application to convert cryptocurrencies into fiat"
 authors = ["datiswaken <jannis.lambinus@protonmail.com>"]
